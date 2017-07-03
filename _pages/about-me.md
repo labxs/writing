@@ -14,10 +14,11 @@ custom_tagline:
 ---
 ### Who Am I?
 
-I am a front- and back-end developer working in JavaScript and PHP with experience in ecommerce applications.
+I am a front-end and back-end developer working in JavaScript and PHP with experience in ecommerce applications.
 
 ### Skills
 
-*   HTML, CSS, PHP (WordPress, ), Javascript (jQuery, Backbone, Underscore)
+*   HTML, CSS, PHP (WordPress), Javascript (jQuery, Backbone, Underscore) 
+*   Website administration (CMS/Plugin, Backups, CDN, Newsletters, etc.)
 *   Twitter, Facebook, Google+, LinkedIn, and other social networks
-*   Public speaking and workshop training
+*   Public speaking and workshop training 
